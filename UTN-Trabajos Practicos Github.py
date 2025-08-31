@@ -1,5 +1,3 @@
-# UTN-TUPaDProgramacion1
-Trabajos Practicos Programacion 1-2025
 #Practico 1-Estructuras secuenciales
 #1)Crear un programa que imprima por pantalla el mensaje: "Hola Mundo!"
 
